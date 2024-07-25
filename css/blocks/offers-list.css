@@ -19,5 +19,5 @@
 }
 
 .offers-list__item {
-  /* width: calc((100% / 6) - (5 * 20px / 6)); */
+  min-width: 300px;
 }
