@@ -1,19 +1,41 @@
 .special-card {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   flex-direction: column;
-  justify-content: space-between;
   min-height: 220px;
-  padding: 20px 20px 0;
+  padding: 30px;
   border-radius: 16px;
   background: #F4F6FA;
 }
 
 .special-card__heading {
-  margin: 0;
+  margin: 0 0 8px 0;
   color: #1E222E;
   text-align: center;
-  font-size: 16px;
+  font-size: 22px;
   font-weight: 700;
+  line-height: 28px;
+  width: 240px;
+  text-align: left;
+}
+
+.special-card__text {
+  font-size: 15px;
   line-height: 20px;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+.special-card__link {
+  padding: 14px;
+  background-color: #5E81FF;
+  border-radius: 8px;
+}
+
+.special-card__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
 }
