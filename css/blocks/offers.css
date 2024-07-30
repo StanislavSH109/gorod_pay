@@ -1,9 +1,10 @@
 .offers {
-    margin: 0 0 100px 0;
+    padding: 0 0 100px;
 }
 
 .offers__title {
     font-size: 32px;
     line-height: 36px;
     font-weight: 700;
+    margin: 0 0 40px;
 }

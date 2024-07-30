@@ -51,5 +51,8 @@
     padding: 16px;
     background-color: #476BF0;
     width: 56px;
+    height: 56px;
     border-radius: 8px;
+    border: 0;
+    cursor: pointer;
 }
