@@ -9,12 +9,10 @@
 }
 
 .offers-list__item--vertical {
-  display: grid;
   grid-row: span 2;
 }
 
 .offers-list__item--size-flat {
-  display: grid;
   grid-column: 1 / 3;
 }
 
