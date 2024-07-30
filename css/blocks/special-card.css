@@ -10,7 +10,6 @@
 
 .special-card__wrapper {
   padding: 30px;
-  width: 300px;
 }
 
 .special-card__heading {
@@ -20,7 +19,6 @@
   font-size: 22px;
   font-weight: 700;
   line-height: 28px;
-  width: 246px;
   text-align: left;
 }
 
@@ -60,6 +58,9 @@
   margin: 0;
   padding: 0 20px;
   list-style: disc;
+  font-size: 15px;
+  font-weight: 400;
+  padding: 0 0 0 15px;
 }
 
 .offers-list__item--vertical .special-card {
