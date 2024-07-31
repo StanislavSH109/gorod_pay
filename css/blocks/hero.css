@@ -61,3 +61,8 @@
     border: 0;
     cursor: pointer;
 }
+
+.hero__image {
+    width: 564px;
+    height: 500px;
+}

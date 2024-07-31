@@ -2,10 +2,6 @@
   padding: 100px 0;
 }
 
-.advantages__wrapper {
-  margin: 0 0 100px;
-}
-
 .advantages__list {
   display: grid;
   grid-template-columns: 1fr 1fr;
